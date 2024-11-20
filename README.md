@@ -1,3 +1,6 @@
+## Discalimer
+This is Fork of https://gitee.com/open-visual/face-search
+
 ## 人脸搜索M:N
 
 * 本项目是阿里云视觉智能开放平台的人脸1：N的开源替代，项目中使用的模型均为开源模型，项目支持opensearch(1.x版本支持milvus和proxima)向量存储库，并具有较高的自定义能力。
